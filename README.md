@@ -81,7 +81,7 @@ Built using modern full-stack technologies including React, FastAPI, MySQL, Pand
 ## 1️⃣ Clone the Repository
 
 
-git clone https://github.com/your-username/ai-financial-expense-analyzer.git
+git clone https://github.com/MeghanshMohabey/Expense_Analyzer.git
 
 ---
 
@@ -103,19 +103,7 @@ uvicorn main:app --reload
 
 ---
 
-## 4️⃣ MySQL Setup
-
-Create a MySQL database:
-
-
-CREATE DATABASE finance_analyzer;
-
-Update your database credentials inside the backend configuration.
-
----
-
 # 📂 Project Structure
-
 
 AI-Financial-Expense-Analyzer/
 │
@@ -134,7 +122,6 @@ AI-Financial-Expense-Analyzer/
 ├── database/
 │
 └── README.md
-
 
 ---
 
