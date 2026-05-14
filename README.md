@@ -103,28 +103,6 @@ uvicorn main:app --reload
 
 ---
 
-# 📂 Project Structure
-
-AI-Financial-Expense-Analyzer/
-│
-├── frontend/
-│   ├── components/
-│   ├── styles/
-│   ├── charts/
-│   └── pages/
-│
-├── backend/
-│   ├── routes/
-│   ├── models/
-│   ├── services/
-│   └── utils/
-│
-├── database/
-│
-└── README.md
-
----
-
 # 🔄 Workflow
 
 CSV Upload
@@ -134,8 +112,6 @@ React Frontend
 FastAPI Backend
     ↓
 Pandas Data Processing
-    ↓
-MySQL Database
     ↓
 Chart.js Visualization
 
