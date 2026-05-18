@@ -67,6 +67,7 @@ Built using modern full-stack technologies including React, FastAPI, MySQL, Pand
 ## 📊 Expense Distribution
 
 ![Charts](./screenshots/chart.png)
+![Chart2](./screenshots/Chart2.png)
 
 ---
 
